@@ -26,7 +26,7 @@ int main(){
 
     //find the element from map
     auto findElement=m.find(4);
-    // for(auto i=findElement;i!=m.end();i++){
+    for(auto i=findElement;i!=m.end();i++){
         cout<<(*i).first<<" "<<(*i).second<<endl;
-    // }
+    }
 }

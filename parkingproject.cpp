@@ -1,8 +1,8 @@
 class employee_dept{
     public:
       string empname;
-        int salary,id;
-           string empname1;
+        int salary,id;k
+        string empname1;
         int salary1,id1;
         public:
     void ticket_dept(){
